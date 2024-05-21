@@ -1,4 +1,4 @@
-## Loan-Approval-Prediction-
+# Loan-Approval-Prediction-
 # Problem Statement
        LOANS are the major requirement of the modern world. By this only, Banks get a major part of the total profit. It is beneficial for students to manage their education and living expenses, and for people to buy any kind of luxury like houses, cars, etc.
 
@@ -26,17 +26,17 @@ their debts
  N-No
 
 # Importing Neccessary Libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn import preprocessing
-from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.svm import SVC
-from sklearn.linear_model import LogisticRegression
-from sklearn import metrics
+ - import pandas as pd
+ - import numpy as np
+ - import matplotlib.pyplot as plt
+ - import seaborn as sns
+ - from sklearn import preprocessing
+ - from sklearn.model_selection import train_test_split
+ - from sklearn.neighbors import KNeighborsClassifier
+ - from sklearn.ensemble import RandomForestClassifier
+ - from sklearn.svm import SVC
+ - from sklearn.linear_model import LogisticRegression
+ - from sklearn import metrics
 
 Developed a machine learning model to predict loan approval using Python, leveraging key features such as Marital Status, Education, and Credit History. Conducted data preprocessing, visualization, and model evaluation, achieving an 82% accuracy with the Random Forest Classifier."
 
